@@ -1,0 +1,35 @@
+# Unreal Engine Ignored Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+
+# Ignore user/project-specific files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.userprefs
+*.vsconfig
+*.log
+
+# Ignore backup files
+*.tmp
+*.bak
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+
+# Mac
+.DS_Store
+
+# Git LFS will handle big UE assets
+.gitattributes
